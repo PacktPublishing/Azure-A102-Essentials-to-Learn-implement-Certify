@@ -7,7 +7,7 @@ azure-cognitiveservices-speech==1.30.0
 azure-cognitiveservices-vision-face==0.6.0
 azure-common==1.1.28
 azure-ai-projects==1.0.0b7
-azure-core==1.31.0
+azure-core==1.38.0
 azure-identity==1.19.0
 azure-keyvault-secrets==4.9.0
 certifi==2024.8.30
